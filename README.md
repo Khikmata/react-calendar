@@ -1,5 +1,3 @@
-#react-calendar
-
 Установка:
 -npm clone https://github.com/Khikmata/react-calendar.git
 -npm start
